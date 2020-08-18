@@ -1,4 +1,4 @@
-# Sounds form www.bensound.com
+# Sounds from www.bensound.com
 import pygame
 import random
 from os import path
